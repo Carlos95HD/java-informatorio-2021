@@ -1,4 +1,4 @@
-package src.EjerciciosComplementariosLevel2;
+package EjerciciosComplementariosLevel2;
 
 public class Empleado {
     String nombre;

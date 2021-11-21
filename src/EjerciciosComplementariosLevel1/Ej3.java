@@ -1,4 +1,4 @@
-package src.EjerciciosComplementariosLevel1;
+package EjerciciosComplementariosLevel1;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package src.EjerciciosComplementariosLevel2;
+package EjerciciosComplementariosLevel2;
 
 import java.util.*;
 import java.util.Map.Entry;
